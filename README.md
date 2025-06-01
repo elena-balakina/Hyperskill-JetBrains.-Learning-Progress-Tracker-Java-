@@ -8,3 +8,7 @@ Use suitable collections such as lists and maps to sort and filter data.
 
 Provided by
 JetBrains Academy
+
+Part of
+![image](https://github.com/user-attachments/assets/8af03c3b-fae5-4091-9a4c-3a8c1caf1e6b)
+
